@@ -77,10 +77,33 @@
                              <seg n="2"> Pulcherrima pocula summi artificii pretiique emit .</seg>
                              <seg n="3"> Itaque Verres praetor , quia Romanorum improbissimus cupidissimusque erat , Diodorum aurea pocula poposcit .</seg>
                              <seg n="4"> Diodorus autem respondit :</seg>
-                             <seg n="5"> <said who="Diodorus">« Pocula mea apud quemdam propinquum in agris reliqui » </said>, Tum Verres Diodori ad propinquum seruos statim misit , qui dixit :</seg>
-                             <seg n="6"> « Heri quidem ad Diodorum pocula misi » .</seg>
-                             <seg n="7"> Interea Diodorus bona collegit atque e Sicilia castra commouit .</seg>
+                             <seg n="5"> <said who="Diodorus">« Pocula mea apud quemdam propinquum in agris reliqui » </said>,</seg>
+                             <seg n="6">Tum Verres Diodori ad propinquum seruos statim misit , qui dixit :</seg>
+                             <seg n="7"> « Heri quidem ad Diodorum pocula misi » .</seg>
+                             <seg n="8"> Interea Diodorus bona collegit atque e Sicilia castra commouit .</seg>
                         </p>                        
+                    </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="4">
+                    <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi043:2.7-2.8" cert="low">
+                        <p>
+                        	<seg n="1">Romulus, ubi Romam condidit, extrema sollertia fuit.</seg>
+                        	<seg n="2">Nam quia uiri Romani sine feminis erant, puellas Sabinas, quae ludis Consualibus aderant, rapuit et collocauit in familiarum amplissimarum matrimoniis.</seg>
+                        </p>
+                        <p>
+                        	<seg n="3">Sed Tatius, Sabinorum rex, iratus in Romulum, Romanos habuit perfidissimos et bellum intulit.</seg>
+                        	<seg n="4">Multa uariaque fuerunt proelia.</seg>
+                        	<seg n="5">Denique Romulus et Tatius regna sacraque consociauerunt ac primos noui populi in regium consilium delegerunt;</seg>
+                        	<seg n="6">populum autem in curias triginta descripserunt.</seg>
+                        	<seg n="7">Sed post exitium Tatii fuit Romulo tota potentia, sicut Romanorum sagacissimi prouiderant.</seg>
+                        </p>
+                        <p>
+                        	<seg n="8">Sic Romulus consilium uere magnum felicissime perfecerat:</seg>
+                        	<seg n="9">non solum Romam, sed etiam populum Romanum constituerat;</seg>
+                        	<seg n="10">utilissima Romanis gesserat;</seg>
+                        	<seg n="11">uir sollertissimus fuerat.</seg>
+                        	<seg n="12">Itaque, si Romulus maximus Romanorum fuit, iure posteri eum laudauerunt.</seg>
+                        </p>
                     </div>
                 </div>
             </div>
