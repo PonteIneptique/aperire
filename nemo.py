@@ -29,3 +29,8 @@ nemo = Nemo(
         "default": resource_filename("perseus_nemo_ui","data/assets/static/xslt/epidocShort.xsl")
     }
 )
+nemo.init_app(app)
+# We register its routes
+nemo.register_routes()
+# We register its filters
+nemo.register_filters()
