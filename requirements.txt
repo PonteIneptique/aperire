@@ -1,7 +1,7 @@
 requests
 capitains_nautilus==0.0.5
 flask_nemo>=1.0.0b1
-perseus_nemo_ui>=0.0.6
 gunicorn==17.5
 waitress==0.8.10
 nemo_arethusa_plugin>=0.0.1
+-e git+https://github.com/PonteIneptique/perseus_nemo_ui.git@dceb7057437e85bdbff91087003edb07665fb5fa#egg=0.0.1

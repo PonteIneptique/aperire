@@ -8,7 +8,7 @@ from flask_nemo.query.interface import SimpleQuery
 from capitains_nautilus.flask_ext import FlaskNautilus
 from pkg_resources import resource_filename
 from MyCapytain.common.reference import URN
-from perseus_nemo_ui import PerseusNemoUi
+from aperire_ui import AperireUI
 from nemo_arethusa_plugin import Arethusa
      
 app = Flask("Nautilus")
@@ -37,7 +37,7 @@ nemo = Nemo(
     base_url="",
     api_url="/api/cts",
     retriever=nautilus.retriever,
-	plugins=[Arethusa(queryinterface=query)],
+	plugins=[Arethusa(queryinterface=query), AperireUI()],
     chunker={
         "default": level_grouper
     },
