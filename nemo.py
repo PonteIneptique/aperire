@@ -3,9 +3,12 @@
 from flask import Flask, request
 from flask_nemo import Nemo
 from flask_nemo.chunker import level_grouper
+from flask_nemo.query.resolve import Resolver, HTTPRetriever
 from capitains_nautilus.flask_ext import FlaskNautilus
 from pkg_resources import resource_filename
 from MyCapytain.common.reference import URN
+from perseus_nemo_ui import PerseusNemoUi
+from nemo_arethusa_plugin import Arethusa
      
 app = Flask("Nautilus")
 nautilus = FlaskNautilus(
@@ -13,6 +16,17 @@ nautilus = FlaskNautilus(
     prefix="/api/cts",
     name="nautilus",
     resources=["."]
+)
+
+# Setup the Query Interface
+# this is temporary to allow for demo of functionality 
+# should eventually call to a collections api
+query = SimpleQuery(
+    [
+        ("urn:cts:aperire:delver.init.opp-lat1:2.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/35716","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:3.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36035","http://data.perseus.org/rdfvocab/treebank")
+    ],
+    resolver=Resolver(HTTPRetriever())
 )
 
 # We set up Nemo
