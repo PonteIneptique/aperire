@@ -46,3 +46,7 @@ nemo = Nemo(
     }
 )
 query.process(nemo)
+
+if __name__ == "__main__":
+    app.DEBUG = True
+    app.run()
