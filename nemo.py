@@ -37,12 +37,12 @@ nemo = Nemo(
     base_url="",
     api_url="/api/cts",
     retriever=nautilus.retriever,
-	plugins=[Arethusa(queryinterface=query), AperireUI()],
+	plugins=[Arethusa(queryinterface=query), AperireUI)(],
     chunker={
         "default": level_grouper
     },
     transform={
-        "default": resource_filename("perseus_nemo_ui","data/assets/static/xslt/epidocShort.xsl")
+        "default": resource_filename("aperire_ui","data/assets/static/xslt/epidocShort.xsl")
     }
 )
 query.process(nemo)
