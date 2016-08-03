@@ -37,7 +37,7 @@ nemo = Nemo(
     base_url="",
     api_url="/api/cts",
     retriever=nautilus.retriever,
-	plugins=[PerseusNemoUi(),Arethusa(queryinterface=query)],
+	plugins=[Arethusa(queryinterface=query)],
     chunker={
         "default": level_grouper
     },
