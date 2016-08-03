@@ -4,6 +4,7 @@ from flask import Flask, request
 from flask_nemo import Nemo
 from flask_nemo.chunker import level_grouper
 from flask_nemo.query.resolve import Resolver, HTTPRetriever
+from flask_nemo.query.interface import SimpleQuery
 from capitains_nautilus.flask_ext import FlaskNautilus
 from pkg_resources import resource_filename
 from MyCapytain.common.reference import URN
