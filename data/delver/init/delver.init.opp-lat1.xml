@@ -70,14 +70,14 @@
 
                         </p>                        
                     </div>
-                    <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi005:2.4.39" cert="low">
+                    <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0474.phi005:2.4.39" cert="low">
                         <p>
                               
                              <seg n="1"> Diodorus , air magno ingenio elegantia -que , in Sicilia multos annos uixit .</seg>
                              <seg n="2"> Pulcherrima pocula summi artificii pretii -que emit .</seg>
                              <seg n="3"> Itaque Verres praetor , quia Romanorum improbissimus cupidissimus -que erat , Diodorum aurea pocula poposcit .</seg>
                              <seg n="4"> Diodorus autem respondit :</seg>
-                             <seg n="5"> «Pocula mea apud quemdam propinquum in agris reliqui » , Tum Verres Diodori ad propinquum seruos statim misit , qui dixit :</seg>
+                             <seg n="5"> <said who="Diodorus">« Pocula mea apud quemdam propinquum in agris reliqui » </said>, Tum Verres Diodori ad propinquum seruos statim misit , qui dixit :</seg>
                              <seg n="6"> « Heri quidem ad Diodorum pocula misi » .</seg>
                              <seg n="7"> Interea Dlodorus bona collegit atque e Sicilia castra commouit .</seg>
                         </p>                        
