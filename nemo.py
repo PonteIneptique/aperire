@@ -24,7 +24,7 @@ def lesson_chunker(version, getValidReff):
     reffs = [urn.split(":")[-1] for urn in getValidReff(level=2)]
     # Satura scheme contains three level (book, poem, lines) but only the Satura number is sequential
     # So as human readable, we give only the second member of the reference body
-    return [(reff, "Lesson {0}, Text {1}".format(tuple(reff.split(".")))) for reff in reffs]
+    return [(reff, "Text {1}".format(*tuple(reff.split(".")))) for reff in reffs]
 
 # Setup the Query Interface
 # this is temporary to allow for demo of functionality 
