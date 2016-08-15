@@ -72,7 +72,6 @@
                     </div>
                     <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0474.phi005:2.4.39" cert="low">
                         <p>
-                              
                              <seg n="1"> Diodorus , uir magno ingenio elegantiaque , in Sicilia multos annos uixit .</seg>
                              <seg n="2"> Pulcherrima pocula summi artificii pretiique emit .</seg>
                              <seg n="3"> Itaque Verres praetor , quia Romanorum improbissimus cupidissimusque erat , Diodorum aurea pocula poposcit .</seg>
@@ -82,6 +81,149 @@
                              <seg n="7"> Interea Diodorus bona collegit atque e Sicilia castra commouit .</seg>
                         </p>                        
                     </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="4">
+                    <div type="textpart" subtype="text" n="1"  sameAs="urn:cts:latinLit:phi0474.phi043:2.7" cert="low">
+                      <p>
+                        <seg n="1"> Romulus , ubi Romam condidit , extrema sollertia fuit .</seg>
+                        <seg n="2"> Nam quia uiri Romani sine feminis erant , puellas Sabinas , quae ludis Consualibus aderant , rapuit et collocauit in familiarum amplissimarum matrimoniis .</seg>
+                        <seg n="3"> Sed Tatius , Sabinorum rex , iratus in Romulum , Romanos habuit perfidissimos et bellum intulit .</seg>
+                        <seg n="4"> Multa uariaque fuerunt proelia .</seg>
+                        <seg n="5"> Denique Romulus et Tatius regna sacraque consociauerunt ac primos noui populi in regium consilium delegerunt ;</seg>
+                        <seg n="6"> populum autem in curias triginta descripserunt .</seg>
+                        <seg n="7"> Sed post exitium Tatii fuit Romulo tota potentia , sicut Romanorum sagacissimi prouiderant .</seg>
+                        <seg n="8"> Sic Romulus consilium uere magnum felicissime perfecerat :</seg>
+                        <seg n="9"> non solum Romam , sed etiam populum Romanum constituerat ;</seg>
+                        <seg n="10"> utilissima Romanis gesserat ;</seg>
+                        <seg n="11"> uir sollertissimus fuerat .</seg>
+                        <seg n="12"> Itaque , si Romulus maximus Romanorum fuit , iure posteri eum laudauerunt .</seg>
+                      </p>
+                    </div>
+                    <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0914.phi00121:12-13" cert="low">
+                      <p>
+                        <seg n="1"> Romulus aduersus Tatium processerat et pugnam conseruerat.</seg>
+                        <seg n="2"> Primo impetu, uir clarus, nomine Hostillus, cecidit.</seg>
+                        <seg n="3"> Itaque consternati Romani fugerunt.</seg>
+                        <seg n="4"> Sed, ut clamitauit Tatius « uicimus perfidos », Romulus in eum cum globo ferocissimorum uirorum impetum fecit.</seg>
+                        <seg n="5"> Tum Romani arma ad caeium sustulerunt et fortiter restiterunt.</seg>
+                      </p>
+                      <p>
+                        <seg n="6"> Sed uenerunt repente inter tela raptae a Roma­nis Sabinae ac, postquam silentium factum est, magnis cum lacrimis dixerunt : </seg>
+                        <seg n="7"> « Nos causa belli sumus ». </seg>
+                        <seg n="8"> Romanos et Sabinos mouit res ac Romulus Tatiusque, pace confecta, regna consociauerunt</seg>
+                      </p>
+                    </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="5">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi043:2.8-2.9" cert="low">
+                    <p>
+                      <seg n="1">Multis quoque de causis Romulus laudari potest.</seg>
+                      <seg n="2">Nam existimauit imperium regium, optimorum auctoritate temperatum, Ro­manis ualde prodesse.</seg>
+                      <seg n="3">Ergo patriam gubernauit cum primorum consilio.</seg>
+                    </p>
+                    <p>
+                      <seg n="4">Liberos eorum nominauit patricios atque in clientelas plebem descripsit.</seg>
+                      <seg n="5">Deorum autem auxillo populum Romanum egere putauit.</seg>
+                      <seg n="6">Quamobrem e singulis tribubus singuli cooptati sunt, quibus auspicia dedit.</seg>
+                    </p>
+                    <p>
+                      <seg n="7">Praeterea cum finitimis multa bella gesta sunt, sed Romulus numquam uictus est.</seg>
+                      <seg n="8">Patriam uero locupletare non destitit, quia minime cupidus fuit.</seg>
+                    </p>
+                    <p>
+                      <seg n="9">Narrat Cicero Romulum post exitium a populo deum factum esse.</seg>
+                      <seg n="10">Is septem et triginta annos reganuerat.</seg>
+                    </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0914.phi00121:16" cert="low">
+                    <p>
+                      <seg n="1">Erat Romulus, in campo ad Caprae paludem maxima cum turba, ubi facta est subito tempestas.</seg>
+                      <seg n="2">Ac densus nimubus populo abstulit conspectum Romuli.</seg>
+                      <seg n="3">Deinde, postquam serena et tranquilla lux rediit, Romani, cum uacuam sellam regiam uiderunt, aliquamdiu silentium obtinuerunt.</seg>
+                      <seg n="4">Mox pauci, deinde paene uniuersi deum salutauerunt Romulum.</seg>
+                      <seg n="5">Sed aliqui taciti permanserunt :</seg>
+                      <seg n="6">arguebant enim Romulum discerptum esse patrum manibus.</seg>
+                    </p>
+                    <p>
+                      <seg n="7">Deinde Proculus quidam dixit se Romulum ad caelum abeuntem uidisse.</seg>
+                    </p>
+                  </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="6">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi043:2.10, urn:cts:latinLit:phi0474.phi043:2.13-2.14" cert="low">
+                    <p>
+                      <seg n="1">Sic narrat Cicero exitium Romuli:</seg>
+                      <seg n="2">is in campo cum suis erat; </seg>
+                      <seg n="3">subito, sole obscurato, non iam comparuit.</seg>
+                      <seg n="4">Itaque Romani deorum in numero collocauerunt eum.</seg>
+                      <seg n="5">Tunc populus Romanus desiderio eius regem flagitare non destitit.</seg>
+                    </p>
+                    <p>
+                      <seg n="6">Paulo post, Numam Pompilium, Sabinum, sibi regem adsciuit.</seg>
+                      <seg n="7">Is, Sabinorum quietissimus, magnae prudentiae erat.</seg>
+                      <seg n="8">Nam ut uidit Romanos semper esse belli auidos, ab eo uitio eos reuocare uoluit.</seg>
+                      <seg n="9">Itaque in concilio populo dixit se studium otii et inicere uelle:</seg>
+                      <seg n="10">« Sine praeda, Quirites, commodis abundare potestis.</seg>
+                      <seg n="11">Ego agros quos bello Romulus cepit diuido doque uobis. »</seg>
+                    </p>
+                    <p>
+                      <seg n="12">Praeterea multa sacra instituit.</seg>
+                      <seg n="13">Putauit enim se eo modo animos Romanorum placaturum esse.</seg>
+                    </p>
+                    <p>
+                      <seg n="14">Sic Numa, postquam in concordia unde quadraginta annos regnauit, e uita excessit.</seg>
+                    </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0914.phi00121:18, urn:cts:latinLit:phi0914.phi00121:21" cert="low">
+                    <p>
+                      <seg n="1">Eo modo Numa Pompilius rex creatus est :</seg>
+                      <seg n="2">is in arcem ab augure deductus erat atque in lapide ad meridiem consederat.</seg>
+                      <seg n="3">Deinde ad laeuam eius augur sedem cepit, dextra baculum sine nodo aduncum tenens. </seg>
+                      <seg n="4">(Romani eum appelant lituum).</seg>
+                      <seg n="5">Postea augur, in laeuam translato lituo, dextram imposuit in caput Numae ac dixit ea uerba :</seg>
+                      <seg n="6">« Iupiter pater, si uis Numam Pompilium Romanorum regem esse, da signa nobis certa inter fines quos feci »</seg>
+                      <seg n="7">Ubi uidit augur signa data esse, Numa rex declaratus est atque in forum descendit.</seg>
+                    </p>
+                    <p>
+                      <seg n="8">Paulo post, ad animos Romanorum commouendos, simulauit Numa sibi cum dea Egeria esse colloquia nocturna et adfirmauit se auxilio euis gratissima deis sacra instituere.</seg>
+                    </p>
+                  </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="7">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi043:2.17-2.20" cert="low">
+                    <p>
+                      <seg n="1">Post Pompilii exitium Tullus Hostilius a populo rex creatus est.</seg>
+                      <seg n="2">Is bellum renouauit iusque belli constituit.</seg>
+                      <seg n="3">Post eum regnauit Numae nepos, Ancus Martius.</seg>
+                      <seg n="4">Is, postquam Latinos bello deuicit, adsciuit eos in ciuitatem.</seg>
+                    </p>
+                    <p>
+                      <seg n="5">Deinde Auentinum et Coelium montem adiunxit urbi ;</seg>
+                      <seg n="6">et siluas maritimes publicauit deditque colonis ;</seg>
+                      <seg n="7">et ad ostium Tiberis amnis Ostiam urbem condidit.</seg>
+                    </p>
+                    <p>
+                      <seg n="8">Post eum regnauit Demaratus quidam, Corinthius, uir magno honore et pecunia praeditus, consiliorum Anci Martii particeps.</seg>
+                    </p>
+                    <p>
+                      <seg n="9">Quod erat in eo summa comitas, summa in ciues benignitas, populi suffragiis rex creatus erat.</seg>
+                    </p>
+                    <p>
+                      <seg n="10">Addit Cicero quod, ubi e patria fugit, nomen Graecum dimisit ac Romae Lucius Tarquinius appellatus est — post exilium enim adscitus erat ciuis a Tarquiniensibus —.</seg>
+                    </p>
+                    <p>
+                      <seg n="11">Primus equites creauit.</seg>
+                      <seg n="12">Bello Aequorum gentem subegit et aedem Ioui in Capitolio uouit.</seg>
+                  </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0474.phi043:2.25" cert="low">
+                    <p>
+                      <seg n="1">Nam rex ille, primum optimi regis caede maculatus, integra mente non erat;</seg>
+                      <seg n="2">et, cum metueret poenam sceleris summam, metui se uolebat.</seg>
+                      <seg n="3">Deinde, uictoriis diuitiisque subnixus exsultabat insolentia, neque suos mores regere poterat, neque suorum libidines.</seg>
+                      <seg n="4">Itaque, quia eius filius, Lucretiae, Tricipitini filiae, Collatini uxori, uim attulerat, mulierque ob illiam iniuriam se morte multauerat, uir ingenio et uirtute praeditus, L. Brutus, depulit a ciuibus suis iniustum id durae seruitutis iugum.</seg>
+                    </p>
+                  </div>
                 </div>
             </div>
         </body>

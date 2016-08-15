@@ -25,7 +25,9 @@ nautilus = FlaskNautilus(
 query = SimpleQuery(
     [
         ("urn:cts:aperire:delver.init.opp-lat1:2.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/35716","http://data.perseus.org/rdfvocab/treebank"),
-        ("urn:cts:aperire:delver.init.opp-lat1:3.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36035","http://data.perseus.org/rdfvocab/treebank")
+        ("urn:cts:aperire:delver.init.opp-lat1:3.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36035","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:3.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36036","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:4.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36120","http://data.perseus.org/rdfvocab/treebank")
     ],
     resolver=Resolver(HTTPRetriever())
 )
