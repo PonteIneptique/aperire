@@ -24,7 +24,7 @@ def lesson_chunker(version, getValidReff):
     reffs = [urn.split(":")[-1] for urn in getValidReff(level=2)]
     # Satura scheme contains three level (book, poem, lines) but only the Satura number is sequential
     # So as human readable, we give only the second member of the reference body
-    return [(reff, "Text {1}".format(*tuple(reff.split(".")))) for reff in reffs]
+    return [(reff, "Texte {1}".format(*tuple(reff.split(".")))) for reff in reffs]
 
 # Setup the Query Interface
 # this is temporary to allow for demo of functionality 
@@ -34,7 +34,8 @@ query = SimpleQuery(
         ("urn:cts:aperire:delver.init.opp-lat1:2.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/35716","http://data.perseus.org/rdfvocab/treebank"),
         ("urn:cts:aperire:delver.init.opp-lat1:3.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36035","http://data.perseus.org/rdfvocab/treebank"),
         ("urn:cts:aperire:delver.init.opp-lat1:3.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36036","http://data.perseus.org/rdfvocab/treebank"),
-        ("urn:cts:aperire:delver.init.opp-lat1:4.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36120","http://data.perseus.org/rdfvocab/treebank")
+        ("urn:cts:aperire:delver.init.opp-lat1:4.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36120","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:4.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36278","http://data.perseus.org/rdfvocab/treebank")
     ],
     resolver=Resolver(HTTPRetriever())
 )
