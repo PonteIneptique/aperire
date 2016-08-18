@@ -37,7 +37,9 @@ query = SimpleQuery(
         ("urn:cts:aperire:delver.init.opp-lat1:4.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36120","http://data.perseus.org/rdfvocab/treebank"),
         ("urn:cts:aperire:delver.init.opp-lat1:4.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36278","http://data.perseus.org/rdfvocab/treebank"),
         ("urn:cts:aperire:delver.init.opp-lat1:5.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36279","http://data.perseus.org/rdfvocab/treebank"),
-        ("urn:cts:aperire:delver.init.opp-lat1:5.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36280","http://data.perseus.org/rdfvocab/treebank")
+        ("urn:cts:aperire:delver.init.opp-lat1:5.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36280","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:6.1","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36281","http://data.perseus.org/rdfvocab/treebank"),
+        ("urn:cts:aperire:delver.init.opp-lat1:6.2","http://sosol.perseids.org/sosol/dmm_api/item/TreebankCite/36282","http://data.perseus.org/rdfvocab/treebank")
         
     ],
     resolver=Resolver(HTTPRetriever())
