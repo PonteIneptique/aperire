@@ -230,6 +230,101 @@
                     </p>
                   </div>
                 </div>
+                <div type="textpart" subtype="lesson" n="8">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi0474.phi005:2.4.96" cert="low">
+                    <p>
+                      <seg n="1">Chrysas est amnis qui in Sicilia per Assorinorum agros fuit.</seg>
+                      <seg n="2">Is apud ilios habetur deus et religione maxima colitur.</seg>
+                      <seg n="3">Fanum eius est in agro propter ipsam uiam qua Assoro itur Hennam.</seg>
+                    </p>
+                    <p>
+                      <seg n="4">In eo Chrysae simulacrum est praeclare factum e marmore.</seg>
+                      <seg n="5">Quo Verres poscere Assorinos propter singularem eius fani religionem non ausus est.</seg>
+                      <seg n="6">Tlepolemo dat et Hieroini negotium.</seg>
+                      <seg n="7">Illi noctu cum armatis hominibus ueniunt, fores aedis effringunt;</seg>
+                      <seg n="8">aeditumi custodesque matuere sentiunt;</seg>
+                      <seg n="9">signum, quod erat notum uicinitati, bucina datur;</seg>
+                      <seg n="10">homines ex agris concurrunt;</seg>
+                      <seg n="11">eicitur iugaturque Tlepolemus</seg>
+                    </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0448.phi001:1.1.1-1.1.4">
+                    <seg n="1">Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. </seg>
+                    <seg n="2">Hi omnes lingua, institutis, legibus inter se differunt. </seg>
+                    <seg n="3">Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. </seg>
+                    <seg n="4">Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, </seg>
+                    <seg n="5">proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt.</seg>
+                    <seg n="6">Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. </seg>
+                  </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="9">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi1318.phi001:6.16.17-6.16.20">
+                    <p>
+                      <seg n="1">Iam dies alibi, illic nox omnibus noctibus nigrior densiorque; <gap reason="omitted" /></seg>
+                      <seg n="2">Placuit egredi in litus, et ex proximo adspicere, ecquid iam mare admitteret;</seg>
+                      <seg n="3">quod adhuc vastum et adversum permanebat.</seg>
+                    </p>
+                    <p>
+                      <seg n="4"><milestone n="18" />Ibi super abiectum linteum recubans semel atque iterum frigidam aquam poposcit hausitque.</seg>
+                      <seg n="5">Deinde flammae flammarumque praenuntius odor sulpuris alios in fugam vertunt, excitant illum.</seg>
+                    </p>
+                    <p>
+                      <seg n="6"><milestone n="19" />Innitens servolis duobus assurrexit et statim concidit<gap reason="omitted" /></seg>
+                      <seg n="7"><milestone n="20" />Ubi dies redditus - is ab eo quem novissime viderat tertius -, corpus inventum integrum illaesum opertumque ut fuerat indutus: habitus corporis quiescenti quam defuncto similior.</seg>
+                    </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0448.phi001:6.13.1-6.13.6">
+                    <p>
+                      <seg n="1">In omni Gallia eorum hominum, qui aliquo sunt numero atque honore, genera sunt duo.</seg>
+                      <seg n="2">Nam plebes paene servorum habetur loco, quae nihil audet per se, nullo adhibetur consilio. </seg>
+                      <seg n="3"><milestone n="2" /> Plerique, cum aut aere alieno aut magnitudine tributorum aut iniuria potentiorum premuntur, sese in servitutem dicant nobilibus: in hos eadem omnia sunt iura, quae dominis in servos.</seg>
+                      <seg n="4"><milestone n="3" /> Sed de his duobus generibus alterum est druidum, alterum equitum.</seg>
+                      <seg n="5"><milestone n="4" /> Illi rebus divinis intersunt, sacrificia publica ac privata procurant, religiones interpretantur:</seg>
+                      <seg n="6">ad hos magnus adulescentium numerus disciplinae causa concurrit, magnoque hi sunt apud eos honore. </seg>
+                      <seg n="7"><milestone n="5" /> Nam fere de omnibus controversiis publicis privatisque constituunt, et, si quod est admissum facinus, si caedes facta, si de hereditate, de finibus controversia est, idem decernunt, praemia poenasque constituunt; </seg>
+                      <seg n="8"><milestone n="6" /> si qui aut privatus aut populus eorum decreto non stetit, sacrificiis interdicunt. </seg>
+                      <seg n="9">Haec poena apud eos est gravissima. </seg>
+                    </p>
+                  </div>
+                </div>
+                <div type="textpart" subtype="lesson" n="10">
+                  <div type="textpart" subtype="text" n="1" sameAs="urn:cts:latinLit:phi1017.phi015:5.47, urn:cts:latinLit:phi1017.phi015:5.10, urn:cts:latinLit:phi1017.phi015:5.16, urn:cts:latinLit:phi1017.phi015:5.17">
+                    <p>
+                      <seg n="1">Cogitabis eum quem seruum tuum uocas ex isdem seminibus ortum, eodem frui caelo, aeque spirare, aeque uiuere, aeque mori !</seg>
+                      <seg n="2">Tam tu illum uidere ingenuum potes quam ille te seruum .</seg>
+                    </p>
+                    <p>
+                      <seg n="3">Variana clade multos splendidissime natos <gap reason="omitted" /> fortuna depressit, alium ex illis pastorem, alium custodem casae fecit<gap reason="omitted" />.</seg>
+                      <seg n="4">Quemadmodum stultus est, qui, equum empturus, non ipsum inspicit, sed stratum eius ac frenos, sic stultissimus est, qui hominem aut ex ueste aut ex condicione, quae uestis modo nobis circumdata est, aestimat.</seg>
+                      <seg n="5">« Seruus est. »</seg>
+                      <seg n="6">Sed fortasse liberr animo.</seg>
+                      <seg n="7">« Seruus est...<gap reason="omitted" /> »</seg>
+                      <seg n="8">Sed alius libidini seruit, alius auaritiae, alius ambitioni, omnes timori.</seg>
+                      <seg n="9">Dabo consularem aniculae seruientem, dabo ancillae diuitem, ostendam nobilissimos iuuenes mancipia pantomimorum : </seg>
+                      <seg n="10">nulla seruitus turpior est quam uoluntaria.</seg>
+                    </p>
+                  </div>
+                  <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0448.phi001:6.16-6.17.2">
+                    <p>
+                      <seg n="1">Natio est omnis Gallorum admodum dedita religlonibus, </seg>
+                      <seg n="2">atque, ob eam causant, qui sunt affecti grauloribus morbis, quique in proeliis periculisque uersantur aut pro uictimis hommes immolant aut se immolaturos (esse) uouent, administrisque ad ea </seg>
+                      <seg n="3">sacrificia Druidibus utuntur... <gap reason="omitted" /> ; </seg>
+                      <seg n="4">publiceque elusdem generis habent instituta sacrificia.</seg>
+                      <seg n="5">Alii immani magnitudine simulacra habent, quorum contexta uiminibus membra uiuis hominibus complent...<gap reason="omitted" /></seg>
+                      <seg n="6">Supplicia eorum qui in furto aut in latrocinio sunt comprehensi, gratiora deis immortalibus esse arbitrantur ;</seg>
+                      <seg n="7">sed, cum eius generis copia defecit, etiam ad innocentium supplicia descen­dunt.</seg>
+                    </p>
+                    <p>
+                      <seg n="8">Deum maxime Mercurium colunt ; </seg>
+                      <seg n="9">eius sunt plurima simulacra ;</seg>
+                      <seg n="10">eum omnium inuentorem artium ferunt, eum uiarum atque itinerum ducem,</seg>
+                      <seg n="11">eum ad quaestus pecuniae mercaturasque habere uim maximam arbitrantur.</seg>
+                      <seg n="12">Post eum, Apollinem et Martem et Iouem et Mineruam.</seg>
+                      <seg n="13">De iis eamdem fere quam reliquae gentes habent opinionem :</seg>
+                      <seg n="14">Apollinem morbos depellere, Mineruam operum atque artificiorum initia tradere, Iouem imperium caelestium tenere, Martem bella regere.</seg>
+                    </p>
+                  </div>
+                </div>
             </div>
         </body>
     </text>
