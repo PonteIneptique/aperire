@@ -249,12 +249,14 @@
                     </p>
                   </div>
                   <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0448.phi001:1.1.1-1.1.4">
-                    <seg n="1">Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. </seg>
-                    <seg n="2">Hi omnes lingua, institutis, legibus inter se differunt. </seg>
-                    <seg n="3">Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. </seg>
-                    <seg n="4">Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, </seg>
-                    <seg n="5">proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt.</seg>
-                    <seg n="6">Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. </seg>
+                    <p>
+                      <seg n="1">Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. </seg>
+                      <seg n="2">Hi omnes lingua, institutis, legibus inter se differunt. </seg>
+                      <seg n="3">Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. </seg>
+                      <seg n="4">Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, </seg>
+                      <seg n="5">proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt.</seg>
+                      <seg n="6">Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. </seg>
+                    </p>
                   </div>
                 </div>
                 <div type="textpart" subtype="lesson" n="9">
@@ -265,24 +267,24 @@
                       <seg n="3">quod adhuc vastum et adversum permanebat.</seg>
                     </p>
                     <p>
-                      <seg n="4"><milestone n="18" />Ibi super abiectum linteum recubans semel atque iterum frigidam aquam poposcit hausitque.</seg>
+                      <seg n="4"><milestone unit="section" n="18" />Ibi super abiectum linteum recubans semel atque iterum frigidam aquam poposcit hausitque.</seg>
                       <seg n="5">Deinde flammae flammarumque praenuntius odor sulpuris alios in fugam vertunt, excitant illum.</seg>
                     </p>
                     <p>
-                      <seg n="6"><milestone n="19" />Innitens servolis duobus assurrexit et statim concidit<gap reason="omitted" /></seg>
-                      <seg n="7"><milestone n="20" />Ubi dies redditus - is ab eo quem novissime viderat tertius -, corpus inventum integrum illaesum opertumque ut fuerat indutus: habitus corporis quiescenti quam defuncto similior.</seg>
+                      <seg n="6"><milestone unit="section" n="19" />Innitens servolis duobus assurrexit et statim concidit<gap reason="omitted" /></seg>
+                      <seg n="7"><milestone unit="section" n="20" />Ubi dies redditus - is ab eo quem novissime viderat tertius -, corpus inventum integrum illaesum opertumque ut fuerat indutus: habitus corporis quiescenti quam defuncto similior.</seg>
                     </p>
                   </div>
                   <div type="textpart" subtype="text" n="2" sameAs="urn:cts:latinLit:phi0448.phi001:6.13.1-6.13.6">
                     <p>
                       <seg n="1">In omni Gallia eorum hominum, qui aliquo sunt numero atque honore, genera sunt duo.</seg>
                       <seg n="2">Nam plebes paene servorum habetur loco, quae nihil audet per se, nullo adhibetur consilio. </seg>
-                      <seg n="3"><milestone n="2" /> Plerique, cum aut aere alieno aut magnitudine tributorum aut iniuria potentiorum premuntur, sese in servitutem dicant nobilibus: in hos eadem omnia sunt iura, quae dominis in servos.</seg>
-                      <seg n="4"><milestone n="3" /> Sed de his duobus generibus alterum est druidum, alterum equitum.</seg>
-                      <seg n="5"><milestone n="4" /> Illi rebus divinis intersunt, sacrificia publica ac privata procurant, religiones interpretantur:</seg>
+                      <seg n="3"><milestone unit="section" n="2" /> Plerique, cum aut aere alieno aut magnitudine tributorum aut iniuria potentiorum premuntur, sese in servitutem dicant nobilibus: in hos eadem omnia sunt iura, quae dominis in servos.</seg>
+                      <seg n="4"><milestone unit="section" n="3" /> Sed de his duobus generibus alterum est druidum, alterum equitum.</seg>
+                      <seg n="5"><milestone unit="section" n="4" /> Illi rebus divinis intersunt, sacrificia publica ac privata procurant, religiones interpretantur:</seg>
                       <seg n="6">ad hos magnus adulescentium numerus disciplinae causa concurrit, magnoque hi sunt apud eos honore. </seg>
-                      <seg n="7"><milestone n="5" /> Nam fere de omnibus controversiis publicis privatisque constituunt, et, si quod est admissum facinus, si caedes facta, si de hereditate, de finibus controversia est, idem decernunt, praemia poenasque constituunt; </seg>
-                      <seg n="8"><milestone n="6" /> si qui aut privatus aut populus eorum decreto non stetit, sacrificiis interdicunt. </seg>
+                      <seg n="7"><milestone unit="section" n="5" /> Nam fere de omnibus controversiis publicis privatisque constituunt, et, si quod est admissum facinus, si caedes facta, si de hereditate, de finibus controversia est, idem decernunt, praemia poenasque constituunt; </seg>
+                      <seg n="8"><milestone unit="section" n="6" /> si qui aut privatus aut populus eorum decreto non stetit, sacrificiis interdicunt. </seg>
                       <seg n="9">Haec poena apud eos est gravissima. </seg>
                     </p>
                   </div>
